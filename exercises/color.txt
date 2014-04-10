@@ -1,0 +1,8 @@
+#EBF0F7
+#f0f0ee
+#54EB36
+#2cc20a
+
+background-color:#6BB130;
+background-position:initial initial;
+background-repeat:initial initial;
